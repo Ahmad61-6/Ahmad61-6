@@ -1,12 +1,8 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1280/0*-u0b7K0Q6zfBcQqT.gif)](https://rishavchanda.io)
-
+[![MasterHead](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ahmad Bin Mijanur Rahman</h1>
 <h3 align="center">Flutter app developer, currently enhancing skills in Software Quality Assurance to ensure superior app quality.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad61-6&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad61-6" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad61-6" alt="ahmad61-6" /></a> </p>
 
 - 🔭 I’m currently working on **EduConnect, A Coaching Center Management APP.**
 
