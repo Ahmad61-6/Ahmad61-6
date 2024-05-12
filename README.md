@@ -2,13 +2,15 @@
 <h1 align="center">Hi 👋, I'm Ahmad Bin Mijanur Rahman</h1>
 <h3 align="center">Flutter app developer, currently enhancing skills in Software Quality Assurance to ensure superior app quality.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad61-6&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad61-6" /> </p>
 
 - 🔭 I’m currently working on **EduConnect, A Coaching Center Management APP.**
 
 - 🌱 I’m currently learning **Software Quality Assurance.**
 
-- 👯 I’m looking to collaborate on **Flutter E-Commerce.**
+- 👯 I’m looking to collaborate on **Flutter App Projects.**
 
 - 📫 How to reach me **ahmadbinmijanurrahman@gmail.com**
 
